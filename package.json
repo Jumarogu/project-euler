@@ -1,0 +1,23 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "solutions for some projecteuler.net problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jumarogu/project-euler.git"
+  },
+  "keywords": [
+    "javascript",
+    "math"
+  ],
+  "author": "jumarogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jumarogu/project-euler/issues"
+  },
+  "homepage": "https://github.com/Jumarogu/project-euler#readme"
+}
